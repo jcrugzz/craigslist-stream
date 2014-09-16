@@ -1,7 +1,7 @@
 {
   "name": "craigslist-stream",
   "description": "Fetches and parses a craigslist rss feed",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "repository": {
     "url": "git://github.com/jcrugzz/craigslist-notifier.git"
   },
